@@ -8,6 +8,7 @@ int main() {
     for(int i = 1; i <= 10; i++) {
         res = res + i;
     }
+    printf("%d",res);
     printf("%d", res);
     return 0;
 }
